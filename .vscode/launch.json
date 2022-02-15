@@ -1,0 +1,9 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // available through eslint plugin in vscode
+  "eslint.alwaysShowStatus": true,
+  "eslint.lintTask.enable": true
+}
