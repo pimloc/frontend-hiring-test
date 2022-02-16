@@ -2,8 +2,6 @@
 
 Clone this repo and follow the instructions sent to you via email.
 
-You can install any packages you want or need.
-
 ## Prerequistes
 
 - You will need `npm` or `yarn` installed. We recommend `npm`. If using `yarn` please replace all `npm`'s in this document with `yarn`.
@@ -11,7 +9,7 @@ You can install any packages you want or need.
 
 ## Instructions
 
-Your overall aim of the app is to make something that looks good. The main goal of this task is to demonstrate your ability to style a good UI/UX. Do not priortise getting all these features into your app.
+Your overall aim of the app is to make something that looks good. The main goal of this task is to demonstrate your ability to style a good UI/UX. Do not priortise getting all these features into your app. You can install any packages you want or need.
 
 - Render the boxes located in `./src/defaultState.js` onto the image. The box coordinates are given as percentages of the image height/width.
 - Display the image in a view that adapts to screen size
