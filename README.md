@@ -18,7 +18,7 @@ Your overall aim of the app is to make something that looks good and includes as
 - Create a button to allow the user to delete a box
 - Display the image in a view that adapts to screen size
 
-Don't worry about achieving all the features listed. You should only spend 90mins to 2 hours on the task.
+Don't worry about achieving all the features listed. You should only spend 90mins to 2 hours on the task. Feel free to google any resources you need, this isn't a test of knowledge.
 
 Please let us know if you have any issues setting up the app. Running `npm install` and then `npm start`.
 
